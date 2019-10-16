@@ -1,0 +1,17 @@
+2a5c317d64fa8ba7f518261170b3c0d0 *DESCRIPTION
+e6e46c90abc7d4b556d37826d36eef41 *NAMESPACE
+ae9ab7996643684f8adc0467916d4138 *R/data.R
+9ee8d7d400fb65941e9932b370285910 *R/downloader.R
+30a20a91a2e023ef98ff05d1173148e2 *R/pancor.R
+004a127c1a2ad6327352546cf3a1cda8 *R/plotting.R
+951eb5376b858e4ac6b0e24bbeb831b6 *README.md
+29d910c6140aaff8ec328e7e078137a4 *data/panCCLE_small.rda
+62650147067d6283eb8d19f1df2bf93e *data/panGTEX_small.rda
+1d3c0292962b3138ff86780138d899e3 *data/pancancer_small.rda
+36f69021e86ccbab4bba3fbc6a211421 *man/getExprSet.Rd
+61463fb2428c47a5d8853a97c90bd0d0 *man/ggcorplot.Rd
+6aabc72f4a17c3ac0b2749f7bf0aa178 *man/ggpancor.Rd
+3a7db099ec22bd18850bca843ad8c0ec *man/panCCLE_small.Rd
+c247d771db81a379182f60e6f883cf48 *man/panGTEX_small.Rd
+39dbe0aa2f4bfce867c67128623c4f67 *man/pancancer_small.Rd
+3bffc35cd934aabc96ff136195bc012d *man/pancor.Rd
